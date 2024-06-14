@@ -19,8 +19,8 @@ O objetivo deste projeto é demonstrar habilidades técnicas na criação de uma
 
 1. **Clone o repositório**
 
-   git clone https://github.com/annalaura99/chuck-norris-api.git
-   cd chuck-norris-api
+   git clone https://github.com/annalaura99/projeto-chuck-norris-api.git
+   cd projeto-chuck-norris-api
 
 ### ### Instruções de Teste
 
